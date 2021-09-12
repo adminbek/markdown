@@ -4,11 +4,11 @@
 # Abdulazizov Mardonbek
 
 
-## Junior Frontend Developer
+### Junior Frontend Developer
 
 ----
 
-## Contact information:
+### Contact information:
 
 <b>Phone:</b> +99 823 42 64 </br>
 <b>E-mail:</b> abdulazizov.mardon1996@mail.ru </br>
@@ -36,7 +36,7 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 
 ---
 
-## Skills and Proficiency:
+### Skills and Proficiency:
 
 - HTML5, CSS3
 - JavaScript Basics
@@ -46,7 +46,7 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 
 ---
 
-## Code example:
+### Code example:
 
 **Peak array index KATA from CODEWARS:** Given an array of ints, return the index such that the sum of the elements to the right of that index equals the sum of the elements to the left of that index. If there is no such index, return -1. If there is more than one such index, return the left-most index.
 ```
@@ -65,7 +65,7 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 ```
 
 ---
-## Courses:
+### Courses:
 - HTML and CSS Tutorials on the [w3schools]() (completed)
 
 ![](w3schools-score.jpg)
@@ -75,7 +75,7 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 
 ---
 
-## Languages:
+### Languages:
 
 - English - Intermediate/Upper-intermediate (according to the online test at ![](efset-logo.png) www.efset.org)
 
